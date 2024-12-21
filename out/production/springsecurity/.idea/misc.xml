@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/springsecsection2/pom.xml" />
+        <option value="$PROJECT_DIR$/springsecuritybasics/pom.xml" />
+        <option value="$PROJECT_DIR$/springsecsection3/pom.xml" />
+        <option value="$PROJECT_DIR$/springsecsection4/pom.xml" />
+        <option value="$PROJECT_DIR$/springsecsection5/pom.xml" />
+        <option value="$PROJECT_DIR$/springsecsection6/pom.xml" />
+        <option value="$PROJECT_DIR$/springsecsection7/pom.xml" />
+        <option value="$PROJECT_DIR$/springsecsection8/pom.xml" />
+        <option value="$PROJECT_DIR$/springsecsection9/pom.xml" />
+        <option value="$PROJECT_DIR$/springsecsection10/pom.xml" />
+        <option value="$PROJECT_DIR$/springsecOAUTH2GitHub/pom.xml" />
+        <option value="$PROJECT_DIR$/springsecsection13/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_X" default="true" project-jdk-name="openjdk-22" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
